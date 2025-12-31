@@ -35,22 +35,8 @@ Run the following command to start both the frontend and backend:
 npm run dev
 ```
 
-*The backend server will start on `http://localhost:3001` and the frontend will be available at `http://localhost:5173` (or the port shown in your terminal)*
 
-## 📂 Project Structure
 
-```
-sccse-code/
-├── server/
-│   ├── server.js           # Backend API server
-│   └── data/               # JSON data storage
-│       ├── students.json
-│       ├── teachers.json
-│       ├── assignments.json
-│       └── submissions.json
-├── src/                    # React frontend source
-└── README.md
-```
 
 ## 📦 Data Storage
 
