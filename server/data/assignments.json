@@ -15,22 +15,5 @@
     ],
     "createdBy": "teacher@test.com",
     "createdAt": "2023-01-01T12:00:00.000Z"
-  },
-  {
-    "id": "1767193772173",
-    "subjectCode": "BAL420",
-    "batch": "X",
-    "assignmentNumber": 2,
-    "questions": [
-      {
-        "id": "1767193738938",
-        "expectedSpaceComplexity": "O(n)",
-        "expectedTimeComplexity": "O(n^2)",
-        "title": "C program for Bubble sort",
-        "description": "C program for Bubble sort"
-      }
-    ],
-    "createdBy": "teacher@test.com",
-    "createdAt": "2025-12-31T15:09:32.173Z"
   }
 ]
