@@ -5,10 +5,9 @@ A full-stack code editor platform built with React and Node.js for managing lab 
 ## ✨ Features
 
 - 🔐 Role-based authentication (Students & Teachers)
-- 📝 Interactive code editor with syntax highlighting
+- 📝 Interactive code editor 
 - 📚 Assignment creation and management
 - 💾 Code submission tracking
-- 🎨 Modern, responsive UI
 - 📊 Submission history and grading
 
 ## 📋 Prerequisites
@@ -53,7 +52,6 @@ Data is persisted in local JSON files located in `server/data/`:
 **Frontend:**
 - React
 - Vite
-- Monaco Editor (VS Code editor component)
 
 **Backend:**
 - Node.js
