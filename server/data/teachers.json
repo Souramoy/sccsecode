@@ -1,0 +1,9 @@
+[
+  {
+    "email": "teacher@test.com",
+    "password": "password",
+    "role": "teacher",
+    "name": "Dr. Smith",
+    "id": "1700000000002"
+  }
+]

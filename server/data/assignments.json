@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1700000000003",
+    "subjectCode": "CS101",
+    "batch": "X",
+    "assignmentNumber": 1,
+    "questions": [
+      {
+        "id": "q1",
+        "title": "Two Sum",
+        "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+        "expectedTimeComplexity": "O(n)",
+        "expectedSpaceComplexity": "O(n)"
+      }
+    ],
+    "createdBy": "teacher@test.com",
+    "createdAt": "2023-01-01T12:00:00.000Z"
+  },
+  {
+    "id": "1767193772173",
+    "subjectCode": "BAL420",
+    "batch": "X",
+    "assignmentNumber": 2,
+    "questions": [
+      {
+        "id": "1767193738938",
+        "expectedSpaceComplexity": "O(n)",
+        "expectedTimeComplexity": "O(n^2)",
+        "title": "C program for Bubble sort",
+        "description": "C program for Bubble sort"
+      }
+    ],
+    "createdBy": "teacher@test.com",
+    "createdAt": "2025-12-31T15:09:32.173Z"
+  }
+]

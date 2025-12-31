@@ -1,0 +1,28 @@
+{
+  "name": "sccse-code",
+  "version": "1.0.0",
+  "description": "SCCSE Code Editor Platform",
+   "scripts": {
+    "dev": "concurrently \"npm run dev:client\" \"npm run dev:server\"",
+    "dev:client": "vite",
+    "dev:server": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "@types/node": "^25.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.11",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  }
+}

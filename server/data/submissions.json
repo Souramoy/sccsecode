@@ -1,0 +1,32 @@
+[
+  {
+    "studentEmail": "student@test.com",
+    "subjectCode": "BAL420",
+    "assignmentNumber": 2,
+    "questionId": "1767193738938",
+    "code": "#include <stdio.h>\n\nint main() {\n    printf(\"Hello world\");\nint a ;\n    scanf(\"%d\", &a);\nprintf(\"\\n %d\", a);\n    return 0;\n}",
+    "language": "C",
+    "input": "121",
+    "output": "Hello world\n 121",
+    "timeComplexity": "O(1)",
+    "spaceComplexity": "O(1)",
+    "id": "1767193912545",
+    "score": 8,
+    "timestamp": "2025-12-31T15:11:52.545Z"
+  },
+  {
+    "studentEmail": "student1@test.com",
+    "subjectCode": "BAL420",
+    "assignmentNumber": 2,
+    "questionId": "1767193738938",
+    "code": "#include <stdio.h>\n\nint main() {\n    int num;\n    if(scanf(\"%d\", &num)) {\n        printf(\"Read number: %d\", num);\n    }\n    return 0;\n}",
+    "language": "C",
+    "input": "100",
+    "output": "Read number: 100",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(1)",
+    "id": "1767194715196",
+    "score": 2,
+    "timestamp": "2025-12-31T15:25:15.196Z"
+  }
+]

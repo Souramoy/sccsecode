@@ -1,0 +1,16 @@
+[
+  {
+    "email": "student@test.com",
+    "password": "password",
+    "role": "student",
+    "batch": "X",
+    "id": "1700000000001"
+  },
+  {
+    "email": "student1@test.com",
+    "password": "password",
+    "role": "student",
+    "batch": "X",
+    "id": "1767194680362"
+  }
+]
