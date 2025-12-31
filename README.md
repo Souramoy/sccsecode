@@ -74,9 +74,4 @@ Data is persisted in local JSON files located in `server/data/`:
 - Express.js
 - JSON file-based storage
 
-## 📝 License
-
-This project is for educational purposes.
-
-## 🤝 Contributing
 
